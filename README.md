@@ -1,3 +1,9 @@
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ykushch/aws-tour/master/resources/aws.png">
+</p>
+<br/>
+
 # AWS Tour
 ### Work in Progress
 Short guide to so many cool services from AWS
