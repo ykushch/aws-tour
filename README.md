@@ -60,11 +60,44 @@ it will respond on the events in S3, DynamoDB.<br>
 
 ## Storage
 ### S3
-**Description:** Scalable storage in the cloud. Can store backups, images, share files between services. Could be
-used for serving static websites.<br>
+**Description:** Simple Storage Service. Scalable storage in the cloud. Can store backups, images, share files between services. Could be
+used for serving static websites. Cannot be used as a database. Object based storage.<br>
 **Similar to:** *Unlimited* FTP server.
 
+### Glacier
+**Description:** Archive files from S3. Used for long-term archiving.<br>
+**Similar to:** ?
+
+### EFS
+**Description:** Elastic File Service. Block based storage, place where you could install databases, apps and share volume with multiple
+machines<br>
+**Similar to:** ?
+
+### Storage Gateway
+**Description:** Automates getting files into S3 from your corporate network.<br>
+**Similar to:** ?
+
+### Storage Gateway
+**Description:** Automates getting files into S3 from your corporate network.<br>
+**Similar to:** ?
+
 ## Database
+### RDS
+**Description:** Relational Database Service. Consists of different SQL technologies: MySQL, PostgreSQL, MariaDB, SQL Server, 
+Oracle, Aurora.<br>
+**Similar to:** Heroku Postgres.
+
+### DynamoDB
+**Description:** NoSQL database. High-performant and scalable database<br>
+**Similar to:** Heroku Postgres.
+
+### Redshift
+**Description:** Data Warehouse solution. Store analytics data for processing. Copy data from production DB to Redshift for analytics.<br>
+**Similar to:** ?
+
+### Elasticache
+**Description:** Amazon's Redis. Caches data in the cloud. Could be used to show the frequently needed data.<br>
+**Similar to:** Redis.
 
 ## Messaging
 ## Security, Identity & Compliance
