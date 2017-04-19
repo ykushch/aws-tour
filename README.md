@@ -77,10 +77,6 @@ machines<br>
 **Description:** Automates getting files into S3 from your corporate network.<br>
 **Similar to:** ?
 
-### Storage Gateway
-**Description:** Automates getting files into S3 from your corporate network.<br>
-**Similar to:** ?
-
 ## Database
 ### RDS
 **Description:** Relational Database Service. Consists of different SQL technologies: MySQL, PostgreSQL, MariaDB, SQL Server, 
