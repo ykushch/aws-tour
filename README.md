@@ -95,16 +95,58 @@ Oracle, Aurora.<br>
 **Description:** Amazon's Redis. Caches data in the cloud. Could be used to show the frequently needed data.<br>
 **Similar to:** Redis.
 
-## Messaging
+## Migration
+### Snowball
+**Description:** Send a disk or bunch of disks to AWS. You could move Terrabytes of Data into AWS.<br>
+**Similar to:** ?
+
+### DMS
+**Description:** Database Migration Services. Migrate database to AWS cloud or to other regions. You could migrate from local database to Aurora,
+here comes DMS.<br>
+**Similar to:** ?
+
+### Server Migration Service (SMS)
+**Description:** Almost the same as DMS except that it targets to the Virtual Machines instead of databases.<br>
+**Similar to:** ?
+
+## Analytics
+### Athena
+**Description:** Run SQL queries on S3.<br>
+**Similar to:** ?
+
+### EMR
+**Description:** Elastic MapReduce. Used for BigData processing. For example, for log analysis.<br>
+**Similar to:** ?
+
+### Cloud Search 
+**Description:** Fully managed service provided by AWS. Allows to create search capabilites<br>
+**Similar to:** ?
+
+### Elastic Search
+**Description:** Similar to Cloud Search.<br>
+**Similar to:** ?
+
+### Kinesis
+**Description:** A way of streaming and analyzing large amounts of data.<br>
+**Similar to:** Kafka.
+
+### Data Pipeline
+**Description:** Ability to move data. Extract, Transform and Load data from elsewhere in AWS. Schedule when it happens and get alerts when they fail.<br>
+**Similar to:** ?
+
+### Quick Sight
+**Description:** Business Analytics tool. Used to create visualization and rich dashboards.<br>
+**Similar to:** ?
+
 ## Security, Identity & Compliance
+
+## Messaging
 ## Application Services
 ## Developer Tools
 ## Management Tools
 ## Internet of Things
 ## Game Development
 ## Mobile Services
-## Migration
-## Analytics
 ## Business Productivity
 ## Artificial Intelligence
 ## Desktop & App Streaming
