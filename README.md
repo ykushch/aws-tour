@@ -139,6 +139,29 @@ here comes DMS.<br>
 **Similar to:** ?
 
 ## Security, Identity & Compliance
+### IAM
+**Description:** Ables to setup users, create, new AWS Keys and policies.<br>
+**Similar to:** ?
+
+### Inspector
+**Description:** Agent that inspects your Virtual Machines for vulnarabilities.<br>
+**Similar to:** ?
+
+### Certificate Manager
+**Description:** Gives free SSL certificates.<br>
+**Similar to:** ?
+
+### Directory Service
+**Description:** Use Active Directory for Microsoft.<br>
+**Similar to:** ?
+
+### WAF
+**Description:** Web Application Firewall. Firewall from Amazon. Blocks bad requests to Cloudfront protected sites.<br>
+**Similar to:** Sophos.
+
+
+
+
 
 ## Messaging
 ## Application Services
